@@ -46,7 +46,7 @@ I'm a passionate Frontend Developer focused on building modern, performant, and 
   Implemented: login, authorization, dynamic pricing logic, and more.
 
 <p align="left">
-I'm continuously growing and plan to become a Full Stack Developer in the future.
+I have more projects pinned in my GitHub profile.
 </p>
 
 ###
@@ -72,7 +72,7 @@ I'm continuously growing and plan to become a Full Stack Developer in the future
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux Toolkit" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=zustand" height="40" alt="Zustand" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="Zustand" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   <img width="12" />
